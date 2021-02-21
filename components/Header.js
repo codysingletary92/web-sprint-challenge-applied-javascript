@@ -29,7 +29,7 @@ function Header() {
     h1.textContent = "Lambda Times"
     temp = "98o"
 
-    // ().forEach( item => header.appendChild(item))
+    
 
     return header
 }
